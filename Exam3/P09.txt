@@ -1,0 +1,12 @@
+ Contesta brevemente los siguientes cuestionamientos:
+a.	Cuándo es útil el diseñador modular
+	Cuando el problema a resolver puede ser dividido en múltiples subprocesos.
+b.	Qué es un módulo o función
+	Un subproceso del programa que tiene una tarea específica definida por el programador.
+c.	Para qué sirven los argumentos (parámetros) de una función o módulo
+	Para la comunicación de variables entre módulos.
+d.	Menciona tres funciones estándar
+	strcpy, fflush, strlen
+e.	Cómo se debe especificar el encabezado de una función en C (módulo) si queremos que esta retorne (devolver) algún valor.
+	Del tipo del valor que deseamos devolver (entero, flotante, etc).
+
